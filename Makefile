@@ -1,4 +1,4 @@
-GH_PAGES_SOURCE = docs
+GH_PAGES_SOURCES = docs
 ghpages:
 	git checkout gh-pages
 	rm -rf _build _sources _static _modules
