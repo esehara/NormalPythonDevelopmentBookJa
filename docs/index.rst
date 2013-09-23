@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Normal Python Development Book (Japanese)'s documentation!
+ごく「普通」のPython開発ガイド
 =====================================================================
 
 Contents:
@@ -11,10 +11,10 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
+TODO
+====
 
-
-Indices and tables
-==================
+* Python2系とPython3系の違いについて.. 
 
 * :ref:`genindex`
 * :ref:`modindex`
